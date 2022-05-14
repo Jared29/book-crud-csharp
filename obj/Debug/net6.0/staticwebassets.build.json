@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1AN7Ceq/47sbPhug1VPQ1EzTTOhx8sxt+/HcZwol+Lk=",
+  "Source": "book-api-csharp",
+  "BasePath": "_content/book-api-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
